@@ -4,4 +4,4 @@
  1) select k best features for feature selection
  2) VarianceThreshold methods(dropping low and consatant variance)
  3) Mutual Information gain
- 4) Chisquare Test For Feature Selection
+ 4) Chisquare Test For Feature Selection.
